@@ -1,0 +1,10 @@
+{
+    "name": "briefcase",
+    "category": "rev",
+    "description": "We made a game just like Deal or No Deal, but the briefcases are based on a string we gave it. Can't be any problems there!!",
+    "flag": "byuctf{y0u_cAn_uS3_rust!}",
+    "points": 100,
+    "box": "rev.chal.csaw.io",
+    "files": ["briefcase"],
+    "reference": "https://github.com/nyyxhalxy1/rev_challenges/briefcase"
+}
