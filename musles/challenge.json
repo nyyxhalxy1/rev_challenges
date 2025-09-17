@@ -1,0 +1,10 @@
+{
+    "name": "musles",
+    "category": "rev",
+    "description": "Here's another binary to test your rev musles!! Let's see how you do :)",
+    "flag": "byuctf{ur_GDB_skills_are_really_swoll}",
+    "points": 150,
+    "box": "rev.chal.csaw.io",
+    "files": ["musles"],
+    "reference": "https://github.com/nyyxhalxy1/rev_challenges/musles"
+}
