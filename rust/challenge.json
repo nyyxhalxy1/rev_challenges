@@ -1,0 +1,10 @@
+{
+  "name": "rust",
+  "category": "rev",
+  "description":  "I hope your rev skills aren't very rusty! But even if it is, I've got a perfect opportunity for you to keep them sharp!", 
+  "flag": "byuctf{rust_go_brrrrrrr}", 
+  "points": 150, 
+  "box": "rev.chal.csaw.io",
+  "files": ["rust"], 
+  "reference": "https://github.com/BYU-CSA/BYUCTF-2024/tree/main/rev/rust"
+}
